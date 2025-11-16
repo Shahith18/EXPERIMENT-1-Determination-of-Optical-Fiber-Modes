@@ -3,6 +3,7 @@
 *Aim:*  
 To measure propagation and bending losses for two wavelengths in plastic fiber.
 
+
 *Equipments Required:*  
 - Link-B Kit  
 - Patch chords  
