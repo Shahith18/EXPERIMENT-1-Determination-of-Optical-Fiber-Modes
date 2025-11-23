@@ -54,7 +54,8 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 
 ## 📊 OBSERVATION AND CALCULATION
-<img width="805" height="1280" alt="image" src="https://github.com/user-attachments/assets/5e0ecae5-54a0-4a6b-a734-ffc182c2ee61" />
+<img width="720" height="988" alt="517834722-77283b5d-56bb-470e-a801-61f67c43d183" src="https://github.com/user-attachments/assets/31e29f9c-8db8-441b-a3ea-06e5bc9b9ccd" />
+
 
 
 Parameter of given fiber are, A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91 From fig. shows only 4 LP modes propagates. Total number of modes = V2 / 2 = 4.912 / 2
