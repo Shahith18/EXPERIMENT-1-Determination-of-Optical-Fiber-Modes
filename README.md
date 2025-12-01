@@ -52,6 +52,8 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 ```
 
+<img width="719" height="652" alt="image" src="https://github.com/user-attachments/assets/645e76e3-1280-4572-b0b9-3a792531a6d6" />
+
 
 ## 📊 OBSERVATION AND CALCULATION
 
